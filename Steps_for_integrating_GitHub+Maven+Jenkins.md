@@ -240,6 +240,10 @@ clean package
 Run the build.
 
 <img width="698" height="608" alt="Screenshot 2026-06-23 023152" src="https://github.com/user-attachments/assets/d8cb8a39-3e8a-492b-8151-29d7694f25e9" />
+
+#### build after github repository integrated
+<img width="1336" height="625" alt="Screenshot 2026-06-23 023742" src="https://github.com/user-attachments/assets/23278b25-e810-4367-b982-50b7b16048a2" />
+
 #### build after maven
 <img width="1320" height="621" alt="Screenshot 2026-06-23 023304" src="https://github.com/user-attachments/assets/cafa6cb0-3bef-4c27-9210-8980ff557c59" />
 
