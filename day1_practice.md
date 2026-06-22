@@ -43,6 +43,10 @@ ambika_project1_DevOps
 #### MobaXterm
 <img width="1104" height="605" alt="Screenshot 2026-06-23 021607" src="https://github.com/user-attachments/assets/49511ab1-f614-409d-ba44-01c94e970bb6" />
 
+### AWS Jenkins EC2 Machine
+<img width="1364" height="614" alt="image" src="https://github.com/user-attachments/assets/17c18b3b-4449-4c1b-94c9-dcefcfd3df6e" />
+
+
 ### Console Output Verification
 
 The Jenkins build completed successfully with the following actions:
