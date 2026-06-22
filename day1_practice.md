@@ -22,7 +22,7 @@ Successfully integrated a Maven-based web application with GitHub and Jenkins to
 **Repository:**
 https://github.com/ambika-k-devops/maven-web-app-project-kk-funda.git
 
-#### My Practice Screenshot
+#### My Practice Screenshot # build 1
 
 <img width="1326" height="628" alt="Screenshot 2026-06-23 011753" src="https://github.com/user-attachments/assets/dcad36c8-98db-496e-9cb8-0d5757754581" />
 
@@ -31,10 +31,13 @@ ambika_project1_DevOps
 
 **Build Status:** ✅ SUCCESS
 
-### build with github
+### build with github # build 2
 <img width="1339" height="630" alt="Screenshot 2026-06-23 020929" src="https://github.com/user-attachments/assets/0a14d2c8-86a8-44e7-a93a-0b4a0ff7fa36" />
 
-### build with maven
+### build 3 got failed because of not having maven installed in our jenkins machine
+<img width="1341" height="630" alt="image" src="https://github.com/user-attachments/assets/512f9f9f-493b-4eb3-8eee-d22a111a4190" />
+
+### build with maven # buld 4
 <img width="1325" height="619" alt="Screenshot 2026-06-23 020845" src="https://github.com/user-attachments/assets/3247bd6f-a400-479b-bd08-5b1646f46d46" />
 
 
