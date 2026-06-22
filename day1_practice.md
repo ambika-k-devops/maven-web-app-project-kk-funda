@@ -40,6 +40,8 @@ ambika_project1_DevOps
 ### build with maven # buld 4
 <img width="1325" height="619" alt="Screenshot 2026-06-23 020845" src="https://github.com/user-attachments/assets/3247bd6f-a400-479b-bd08-5b1646f46d46" />
 
+#### MobaXterm
+<img width="1104" height="605" alt="Screenshot 2026-06-23 021607" src="https://github.com/user-attachments/assets/49511ab1-f614-409d-ba44-01c94e970bb6" />
 
 ### Console Output Verification
 
