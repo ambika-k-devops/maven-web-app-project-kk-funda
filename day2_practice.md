@@ -296,6 +296,8 @@ Build Success after correcting pom.xml
 code quality report got created in sonarqube
 <img width="1348" height="549" alt="Screenshot 2026-06-24 014033" src="https://github.com/user-attachments/assets/5792178a-0c64-44df-a92f-8b2135f2adb1" />
 <img width="1335" height="593" alt="Screenshot 2026-06-24 010304" src="https://github.com/user-attachments/assets/48fdb719-c94b-4c98-8faf-e5f418023843" />
+my AWS ec2 instances for today practice
+<img width="1365" height="668" alt="Screenshot 2026-06-24 020627" src="https://github.com/user-attachments/assets/960bd65d-f2bb-4d69-ba4f-c0b1e917f120" />
 
 ---
 
