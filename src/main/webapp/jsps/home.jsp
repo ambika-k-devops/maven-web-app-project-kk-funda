@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to KK AWS</h1>
-<h1 align="center"> KK FUNDA</h1>
+<h1 align="center">Welcome to KK AWS NEW BATCH MAY 25th 6:45 AM to 8:45 AM IST pls reachout to me 8639380177 </h1>
+<h1 align="center"> KK DEVOPS aws</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
