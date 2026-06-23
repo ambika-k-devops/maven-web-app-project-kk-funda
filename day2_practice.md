@@ -70,7 +70,7 @@ Install required utilities:
 yum install wget unzip tree -y
 ```
 
-Download SonarQube:
+Download SonarQube: https://www.sonarsource.com/products/sonarqube/downloads/
 
 ```bash
 wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-26.6.0.123539.zip
@@ -286,6 +286,9 @@ SonarQube Analysis
    ↓
 Build Success
 ```
+
+MobaXterm
+<img width="1335" height="654" alt="Screenshot 2026-06-24 015702" src="https://github.com/user-attachments/assets/32cbae14-860f-433f-b781-035d04d034fc" />
 Build is from github development branch in this repo: " https://github.com/ambika-k-devops/maven-web-app-project-kk-funda.git "
 <img width="1360" height="587" alt="Screenshot 2026-06-24 014800" src="https://github.com/user-attachments/assets/aca91b7d-3c67-4178-ace3-052f21e2eeea" />
 Build Success after correcting pom.xml
