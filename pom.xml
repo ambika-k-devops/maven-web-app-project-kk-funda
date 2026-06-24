@@ -99,14 +99,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>KK FUNDA Releases Nexus Repository</name>
-	      <url>http://13.234.59.75:8081/repository/jio-release/</url>
+	      <name>Ambika DevOps Releases Nexus Repository</name>
+	      <url>http://13.233.44.38:8081/repository/ambika_devops_prject_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://13.234.59.75:8081/repository/jio-snapshot/</url>
+	      <name>Ambika DevOps Snapshot Nexus Repository </name>
+	      <url>http://13.233.44.38:8081/repository/ambika_devops_project_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
