@@ -42,6 +42,7 @@ sudo su -
 ---
 
 ### Step 3: Install Jenkins
+goto: https://www.jenkins.io/doc/book/installing/linux/#red-hat-centos
 
 Add Jenkins repository:
 
