@@ -37,6 +37,14 @@ Verify downloaded package:
 ls -lrth
 ```
 
+```bash
+yum install tar wget tree -y
+```
+
+```bash
+wget https://download.sonatype.com/nexus/3/nexus-3.92.3-01-linux-x86_64.tar.gz
+```
+
 Expected:
 
 ```text
