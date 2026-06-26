@@ -101,13 +101,15 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Ambika DevOps Releases Nexus Repository</name>
-	      <url>http://13.233.44.38:8081/repository/ambika_devops_prject_release/</url>
+	      <!-- <url>http://13.233.44.38:8081/repository/ambika_devops_prject_release/</url> -->
+	      <url>http://13.201.15.125:8081/repository/ambika_devops_prject_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Ambika DevOps Snapshot Nexus Repository </name>
-	      <url>http://13.233.44.38:8081/repository/ambika_devops_project_snapshot/</url>
+	      <!-- <url>http://13.233.44.38:8081/repository/ambika_devops_project_snapshot/</url> -->
+	      <url>http://13.201.15.125:8081/repository/ambika_devops_project_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
